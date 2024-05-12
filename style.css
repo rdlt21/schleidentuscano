@@ -1,0 +1,52 @@
+.digestive-system {
+    width: 500px;
+    height: 300px;
+    position: relative;
+    border: 2px solid black;
+  }
+  
+  .mouth {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    border-radius: 50%;
+  }
+  
+  .esophagus {
+    width: 50px;
+    height: 100px;
+    background-color: pink;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+  }
+  
+  .stomach {
+    width: 200px;
+    height: 150px;
+    background-color: orange;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+  }
+  
+  .intestine {
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    top: 40%;
+    left: 20%;
+  }
+  
+  .rectum {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+  }
